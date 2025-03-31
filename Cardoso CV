@@ -9,7 +9,7 @@
 		＜header＞
 			＜img＞
 			＜h1＞Sofía Elizabeth Cardoso Prestes＜/h1＞
-		＜header＞
+		＜/header＞
 
 		＜main＞
 			＜section＞
@@ -17,14 +17,21 @@
 				＜h1＞About me
 				＜p＞
 				"Vivo y respiro Disney (y Pixar), fan de los michis y amante del té"
-			＜section＞
+			＜/section＞
+			＜section1＞
 			＜div class="estudios"＞
 				＜h1＞
 				＜p＞
-			＜section＞
+			＜/section1＞
+			＜section2＞
 				＜img＞
 				＜h1＞
 				＜p＞
+			＜/section2＞
+		＜/main＞
 		＜footer＞
-			＜p＞Computación 3 - Universidad Nacional de Lanus＜/p＞
+			＜p＞Computacion 3 - Universidad Nacional de Lanús＜/p＞
 			＜img＞
+		＜/footer＞
+	＜/body＞
+＜/html＞
