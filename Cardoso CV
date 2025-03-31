@@ -1,0 +1,34 @@
+＜!doctype html＞
+＜html＞
+	＜head＞
+		＜meta caset="utf-8"＞
+		＜title＞Sofía Cardoso CV＜/title＞
+	＜/head＞
+
+	＜body＞
+		＜header＞
+			＜img＞
+			＜nav＞
+				＜ul＞
+					＜li＞＜/li＞
+					＜li＞＜/li＞
+				＜ul＞
+			＜nav＞
+		＜header＞
+
+		＜main＞
+			＜section＞
+				＜img＞
+				＜h1＞
+				＜p＞
+			＜section＞
+				＜img＞
+				＜h1＞
+				＜p＞
+			＜section＞
+				＜img＞
+				＜h1＞
+				＜p＞
+		＜footer＞
+			＜p＞＜/p＞
+			＜img＞
