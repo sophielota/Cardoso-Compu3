@@ -8,21 +8,17 @@
 	＜body＞
 		＜header＞
 			＜img＞
-			＜nav＞
-				＜ul＞
-					＜li＞＜/li＞
-					＜li＞＜/li＞
-				＜ul＞
-			＜nav＞
+			＜h1＞Sofía Elizabeth Cardoso Prestes＜/h1＞
 		＜header＞
 
 		＜main＞
 			＜section＞
 				＜img＞
-				＜h1＞
+				＜h1＞About me
 				＜p＞
+				"Vivo y respiro Disney (y Pixar), fan de los michis y amante del té"
 			＜section＞
-				＜img＞
+			＜div class="estudios"＞
 				＜h1＞
 				＜p＞
 			＜section＞
