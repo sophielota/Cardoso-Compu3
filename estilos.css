@@ -1,23 +1,65 @@
 @charset "utf-8";
 /* CSS Document */
+@font-face {
+    font-family: "Pachang" ;
+    src: url(./Panchang-Variable.ttf) format(truetype);
+}
+
+
 header {
-    background-color: hsl(262, 100%, 82%);
-    border: 40px solid #ffffff;
+    font-family: "Pachang", sans-serif;
+    font-size: x-large;
+    font-weight: 200;
+    background-color: hsl(260, 100%, 82%);
+    border: 20px solid #ffffff;
     border-radius: 50px;
     padding: 30px;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start
+
+}
+
+h1 {
+    max-width: 400px;
+    text-align: start;
 }
       
-img {width: 300px;
-    height: 200px;
+.imagen-circular {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
 
+
+section {
+    border: 2px solid #ffffff; /* Color y grosor del borde */
+    border-radius: 15px; /* Bordes redondeados */
+    padding: 20px; /* Espaciado interno para que el contenido no quede pegado al borde */
+    margin: 20px;
+    background-color: #5d00ff; /* Color de fondo */
+    color: #ffffff;
 }
 
 h2 {
-    background-color: #6d7eff; /* Color de fondo */
+    font-family: "Pachang", sans-serif;
+    font-size:x-large;
+    font-weight: 300;
+    background-color: #d2bdf7; /* Color de fondo */
     border: 2px solid #ffffff; /* Bordes */
     border-radius: 15px; /* Bordes redondeados */
     padding: 8px; /* Espaciado interno */
-    width: 150px; 
+    width: 250px; 
+    justify-content: center;
+    color: #5d00ff;
 }
-  
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
