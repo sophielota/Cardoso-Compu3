@@ -20,7 +20,7 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center
+    align-items: center;
 }
 
 .izquierda {
@@ -33,7 +33,7 @@ header {
     font-size:medium;
     font-weight: 200;
     color: #5d00ff;
-    padding: 0px,20px,0px,0px;
+    padding: 0px 20px 0px 0px;
     display: flex;
     justify-content: flex-start;
     align-items: baseline;
@@ -91,7 +91,7 @@ section {
 }
 
 ul {
-    list-style-type: none
+    list-style-type: none;
 }   
 
 ul li{
@@ -110,7 +110,7 @@ ul li{
     background-color: #d2bdf7;
     color: #5d00ff;
     display: flex;
-    border: 10px 500px 10px 10px
+    border: 10px;
 }
 
 h2 {
