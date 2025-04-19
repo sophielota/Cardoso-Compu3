@@ -109,8 +109,8 @@ ul li{
     padding: 20px;
     background-color: #d2bdf7;
     color: #5d00ff;
-    display: flex;
-    border: 10px;
+    display: block;
+    margin-bottom: 10px;
 }
 
 h2 {
